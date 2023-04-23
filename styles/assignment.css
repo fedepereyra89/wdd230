@@ -1,0 +1,45 @@
+header, footer {
+    background-color: lightblue;
+    color: black;
+    text-align: center;
+    padding: 1rem;
+}
+header, main, footer {
+    margin: 1.25rem auto;
+    max-width: 750px;
+}
+footer {
+    display: block;
+}
+body {
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+
+header img {
+    margin: 15px;
+}
+
+img {
+    border-style: none;
+}
+h1 {
+    text-align: center;
+    font-size: 30px;
+    font-family: "Roboto", sans-serif;
+    }
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+h1{
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
