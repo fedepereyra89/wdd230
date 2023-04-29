@@ -1,0 +1,38 @@
+@media screen and (max-width: 900px){
+    *{
+        transition: .5s ease-in-out;
+    }
+    section{
+        display: grid;
+        text-align: center;
+        grid-template-columns: repeat(1,1fr);
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+    }
+    main{
+        margin: 0;
+    }
+
+    div{
+        width: 330px;
+        margin: 0;
+        transition: .5s ease-in-out;
+        margin-top: 30px;
+        margin-left: 20px;
+    }
+    .digitalphotography img{
+
+        width: 335px;
+    }
+    .google img{
+        width: 335px;
+
+    }
+    .visualhierrarchy img{
+        width: 335px;
+    }
+
+    
+
+}  
