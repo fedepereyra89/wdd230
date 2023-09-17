@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@600&family=Kameron&family=Kanit:wght@500&display=swap');
+
+
+header, footer {
+    background-color: rgb(78, 123, 138);
+    color: black;
+    text-align: center;
+    padding: 1rem;
+}
+header, main, footer {
+    margin: 1.25rem auto;
+    max-width: 750px;
+}
+footer {
+    display: block;
+}
+body {
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: "kanit";
+}
+
+
+header img {
+    margin: 15px;
+}
+
+img {
+    border-style: none;
+    box-shadow: 1px 1px 9px 9px #47b2c5;
+}
+h1 {
+    text-align: center;
+    font-size: 35px;
+    font-family: "Kameron";
+    }
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+h1{
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+h2 {
+    text-align: center;
+    font-size: 50px;
+    font-family: "EB Garamond"; 
+}
+h3 {
+    text-align: center;
+    font-size: 50px;
+    font-family: "EB Garamond"; 
+}
